@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.OwnScreenRecordTool" parent="android:Theme.Material.Light.NoActionBar"
+        android:background="@color/black"
+        android:textColor="#00FFFF" />
+
+</resources>
